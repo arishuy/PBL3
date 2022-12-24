@@ -1,0 +1,136 @@
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\PBL3.exe.config
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\PBL3.exe
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\PBL3.pdb
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.exe
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.pdb
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmDangnhap.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmNhanvien.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmQuanly.resources
+D:\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmDangnhap.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmNhanvien.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmQLNhanvien.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmQuanly.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmThucdon.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\PBL3\PBL3\obj\Debug\PBL3.pdb
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmKhachhang.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmKho.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmDoanhthu.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmHoadon.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmDoanhthu.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmHoadon.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmKhachhang.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmKho.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmQLNhanvien.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmThucdon.resources
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\PBL3\PBL3\obj\Debug\PBL3.View.ItemFood.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmMenu.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmOrder.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmOrder.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.ItemFood.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmMenu.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\PBL3.exe.config
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\PBL3.exe
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\PBL3.pdb
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\EntityFramework.dll
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\FontAwesome.Sharp.dll
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\EntityFramework.xml
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmDangnhap.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmDoanhthu.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmHoadon.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmKhachhang.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmKho.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmNhanvien.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmOrder.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmQLNhanvien.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmQuanly.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmThucdon.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.ItemFood.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmMenu.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.exe
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.pdb
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmCapnhatthongtin.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmChiTietHoaDon.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmChiTietHoaDon.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmCapnhatthongtin.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmChiTietHoaDon.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmCapNhatThongTin.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmDoiMatKhau.resources
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmThongTinTaiKhoan.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmDoiMatKhau.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmThongTinTaiKhoan.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmDoiMatKhau.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmThongTinTaiKhoan.resources
+C:\Users\admin\Documents\PBL3\PBL3\obj\Debug\PBL3.View.frmDashBoard.resources
+D:\PBL3\PBL3\bin\Debug\Guna.UI2.dll
+D:\PBL3\PBL3\obj\Debug\PBL3.View.frmDashBoard.resources
+E:\DUT - Sophomore\PBL3 - Công nghệ phần mềm\Code\PBL3\obj\Debug\PBL3.View.frmDashBoard.resources
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\PBL3.exe.config
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\PBL3.exe
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\PBL3.pdb
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\EntityFramework.dll
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.dll
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\FontAwesome.Sharp.dll
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\Guna.UI2.dll
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\EntityFramework.xml
+D:\HK1 năm 2\PBL3\PBL3\bin\Debug\EntityFramework.SqlServer.xml
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.csproj.AssemblyReference.cache
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.csproj.SuggestedBindingRedirects.cache
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmChiTietHoaDon.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.Properties.Resources.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmCapNhatThongTin.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmDangnhap.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmDashBoard.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmDoanhthu.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmDoiMatKhau.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmHoadon.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmKhachhang.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmKho.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmNhanvien.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmOrder.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmQLNhanvien.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmQuanly.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmThongTinTaiKhoan.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmThucDon.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.ItemFood.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.View.frmMenu.resources
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.csproj.GenerateResource.cache
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.csproj.CoreCompileInputs.cache
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.csproj.CopyComplete
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.exe
+D:\HK1 năm 2\PBL3\PBL3\obj\Debug\PBL3.pdb
