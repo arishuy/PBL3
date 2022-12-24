@@ -1,5 +1,6 @@
 # Phần mềm quản lý cửa hàng thức ăn nhanh
 Ngôn ngữ C# và CSDL SQL Server
+
 Giao diện chính:
 - Trang quản lý: 
 ![image](https://user-images.githubusercontent.com/88521078/209420211-97836370-9340-45be-8c36-a5035c6dc7d2.png)
